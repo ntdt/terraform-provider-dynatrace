@@ -21,7 +21,8 @@ func Provider() *schema.Provider {
 		},
 
 		ResourcesMap: map[string]*schema.Resource{
-			"dynatrace_user": resourceUser(),
+			"dynatrace_user":       resourceUser(),
+			"dynatrace_user_group": resourceUserGroup(),
 		},
 
 		ConfigureFunc: providerConfigure,
