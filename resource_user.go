@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/dtcookie/dynatrace/apis/onprem/users"
-	"github.com/dtcookie/dynatrace/rest"
+	"github.com/bcampoli/dynatrace/apis/onprem/users"
+	"github.com/bcampoli/dynatrace/rest"
 	"github.com/hashicorp/terraform/helper/schema"
 )
 

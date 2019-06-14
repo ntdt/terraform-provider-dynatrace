@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	ug "github.com/dtcookie/dynatrace/apis/onprem/user_groups"
-	"github.com/dtcookie/dynatrace/rest"
+	ug "github.com/bcampoli/dynatrace/apis/onprem/user_groups"
+	"github.com/bcampoli/dynatrace/rest"
 	"github.com/hashicorp/terraform/helper/schema"
 )
 
