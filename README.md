@@ -35,7 +35,7 @@ resource "dynatrace_user_group" "test_group2" {
 }
 ```
 
-## Build provider:
+## Build Provider:
 
 `go build -o terraform-provider-dynatrace`
 
