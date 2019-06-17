@@ -2,6 +2,10 @@
 
 This is a simple terraform provider for Dynatrace Managed (on premise version of Dynatrace). It allows you to create users and user-groups, and assign users to those groups.
 
+## Docs:
+
+https://github.com/emerald-squad/terrafrom-provider-dynatrace/wiki/Reference-Docs
+
 ## Example usage:
 
 ```
