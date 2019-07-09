@@ -4,7 +4,7 @@ This is a simple terraform provider for Dynatrace Managed (on premise version of
 
 ## Docs:
 
-https://github.com/emerald-squad/terrafrom-provider-dynatrace/wiki/Reference-Docs
+https://github.com/emerald-squad/terraform-provider-dynatrace/wiki/Reference-Docs
 
 ## Example usage:
 
